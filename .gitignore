@@ -1,0 +1,12 @@
+# Diretórios Eclipse
+bin/
+.project
+.classpath
+.settings/
+
+# Compilados Java
+*.class
+*.jar
+
+# Logs
+*.log

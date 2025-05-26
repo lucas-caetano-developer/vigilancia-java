@@ -91,55 +91,55 @@ Idiomas suportados:
 
 ### Login
 
-![Login screen]()
+![Login screen](./screenshots/Brazil/login-screen.png)
 
 ### Home
 
-![Home screen]()
+![Home screen](./screenshots/Brazil/home-screen.png)
 
 ### Visitors
 
-![Visitors screen]()
+![Visitors screen](./screenshots/Brazil/visitors-screen.png)
 
 ### Administrator
 
-![Administrator screen]()
+![Administrator screen](./screenshots/Brazil/administrator-screen.png)
 
 ## 🖼️ Interface (Spain)
 
 ### Login
 
-![Login screen]()
+![Login screen](./screenshots/Spain/login-screen.png)
 
 ### Home
 
-![Home screen]()
+![Home screen](./screenshots/Spain/home-screen.png)
 
 ### Visitors
 
-![Visitors screen]()
+![Visitors screen](./screenshots/Spain/visitors-screen.png)
 
 ### Administrator
 
-![Administrator screen]()
+![Administrator screen](./screenshots/Spain/administrator-screen.png)
 
 ## 🖼️ Interface (United States)
 
 ### Login
 
-![Login screen]()
+![Login screen](./screenshots/United%20States/login-screen.png)
 
 ### Home
 
-![Home screen]()
+![Home screen](./screenshots/United%20States/home-screen.png)
 
 ### Visitors
 
-![Visitors screen]()
+![Visitors screen](./screenshots/United%20States/visitors-screen.png)
 
 ### Administrator
 
-![Administrator screen]()
+![Administrator screen](./screenshots/United%20States/administrator-screen.png)
 
 ## 📝 Como executar
 
